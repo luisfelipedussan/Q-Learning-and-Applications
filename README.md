@@ -39,6 +39,6 @@ Where:
 
 Clone this repository and navigate to the main directory:
 ```bash
-git clone https://github.com/your-username/q-learning.git
+git clone https://github.com/your-username/q-learning.git](https://github.com/luisfelipedussan/Q-Learning-and-Applications.git)
 cd q-learning
 
